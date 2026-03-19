@@ -206,3 +206,10 @@ frontend/playwright-report/
 frontend/test-results/
 playwright-report/
 test-results/
+
+# Temporary / Local Scratch Files
+backend/test_calc.py
+tracked.txt
+
+# TypeScript Caches
+*.tsbuildinfo
